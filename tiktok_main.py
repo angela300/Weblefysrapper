@@ -107,7 +107,7 @@ def scrape():
         input("👉 Log in manually, then press ENTER to continue...")
 
         queries = [
-            "crypto trader usa",
+            "crypto trader",
             "cryptocurrency signals",
             "day trading crypto",
             "crypto beginner tips",
